@@ -27,7 +27,7 @@ I did my PhD in Computer Science at Arizona State University, where the majority
 <br />
 
 ![wahtelse](assets/images/whatelse.png)
-[WhatELSE](https://arxiv.org/abs/2502.18641) is an authoring tool for LLM-based interactive narratives aiming at balancing authorial control and emergence. WhatELSE distinguishes canonical narrative experience envisioned authors from actual audience experienced narratives. The interface provides three views (narrative pivot, outline, and variants) to help authors understand the possibility space of audience’s experienced narrative, and corresponding tools leveraging linguistic abstraction to shape the possibility space. 
+[WhatELSE](https://arxiv.org/abs/2502.18641) is an authoring tool for LLM-based interactive narratives aiming at balancing authorial control and emergence. WhatELSE distinguishes canonical narrative experience envisioned by authors from actual audience experienced narratives. The interface provides three views (narrative pivot, outline, and variants) to help authors understand the possibility space of audience’s experienced narrative, and corresponding tools leveraging linguistic abstraction to shape the possibility space. 
 
 *Publication: Zhuoran Lu, Qian Zhou, Yi Wang, WhatELSE: Shaping Narrative Spaces at Configurable Level of Abstraction for AI-bridged Interactive Storytelling, in Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 2025*
 
