@@ -76,8 +76,7 @@ h1 {
 </style>
 
 
-
-# 
+<h1></h1>
 
 I make games for fun. Most of my games are short and made for game jams in 48 hours.
 
