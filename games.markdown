@@ -70,6 +70,8 @@ permalink: /games/
 }
 </style>
 
+# Games
+
 I make games for fun. Most of my games are short and made for game jams in 48 hours.
 
 They tend to be experimental games more about conveying some message through interaction mechanism, not necessarily fun to play.
