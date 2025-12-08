@@ -64,6 +64,10 @@ permalink: /games/
   font-size: 0.9rem;
 }
 
+.page-title {
+  margin-top: 3rem;
+}
+
 @media (max-width: 768px) {
   .games-grid {
     grid-template-columns: 1fr;
@@ -75,6 +79,7 @@ permalink: /games/
 
 
 # Games
+{: .page-title}
 
 I make games for fun. Most of my games are short and made for game jams in 48 hours.
 
