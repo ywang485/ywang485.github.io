@@ -77,7 +77,7 @@ They tend to be experimental games more about conveying some message through int
 <div class="games-grid">
   <div class="game-card">
     <a class="game-title">Hang in There Until Meetings Are Over</a>
-    <div class="game-gif"><img src="assets/images/HITUMAO.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/HITUMAO.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       A game about social anxiety and zoom fatigue <a href="https://junjunlowpoly.itch.io/hanging-in-there-until-meetings-are-over"> [itch]</a> <a href="https://ldjam.com/events/ludum-dare/49/no-collapse-until-meetings-are-over">[Ludum Dare]</a>
     </div>
@@ -85,7 +85,7 @@ They tend to be experimental games more about conveying some message through int
 
   <div class="game-card">
     <a class="game-title">Scientific Research is Gambling with You Life</a>
-    <div class="game-gif"><img src="assets/images/srigwyl.webp" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/srigwyl.webp" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       A monopoly style game but instead of investing in real-estate with money you invest your life in establishing theories. <a href="https://junjunlowpoly.itch.io/scientific-research-is-gambling-with-you-rlife"> [itch] </a>
     </div>
@@ -93,7 +93,7 @@ They tend to be experimental games more about conveying some message through int
 
   <div class="game-card">
     <a class="game-title">Clean Food Clean Mind</a>
-    <div class="game-gif"><img src="assets/images/cfcm.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/cfcm.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       A weight losing simulator with puzzle fighter like mechanism. Your goal is to finish a workout plan before you consume too much calories. The key is to keep your food and your mind clean! <a href="https://junjunlowpoly.itch.io/cleanfoodcleanmind"> [itch] </a><a href="https://ldjam.com/events/ludum-dare/40/clean-food-clean-mind"> [Ludum Dare] </a>
     </div>
@@ -101,7 +101,7 @@ They tend to be experimental games more about conveying some message through int
 
   <div class="game-card">
     <a class="game-title">Battery Pack Man</a>
-    <div class="game-gif"><img src="assets/images/batterypackman.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/batterypackman.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       A small arcade style game where you are the hero who brings solar battery to the field. The goal is to survive.<a href="https://junjunlowpoly.itch.io/batterypackman"> [itch] </a><a href="https://ldjam.com/events/ludum-dare/39/batterypackman"> [Ludum Dare] </a>
     </div>
@@ -109,7 +109,7 @@ They tend to be experimental games more about conveying some message through int
 
   <div class="game-card">
     <a class="game-title">I didn't do my homwork</a>
-    <div class="game-gif"><img src="assets/images/didntdohw.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/didntdohw.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       Connect concepts to make excuses for not doing homework. An experiment on narrative planning with Answer Set Programming. <a href="https://junjunlowpoly.itch.io/i-didnt-do-my-homework"> [itch] </a>
     </div>
@@ -117,7 +117,7 @@ They tend to be experimental games more about conveying some message through int
 
   <div class="game-card">
     <a class="game-title">RNG</a>
-    <div class="game-gif"><img src="assets/images/rng.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-gif"><img src="../assets/images/rng.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       In this classical RPG setting, instead of the player, you play as a random number generator in the game and decide what random encounter the player has. You only have very limited options and your goal is to make the (AI) player beats the game before he realizes how repetitive the RPG world is. <a href="https://junjunlowpoly.itch.io/rng"> [itch] </a><a href="https://ldjam.com/events/ludum-dare/38/rng"> [Ludum Dare] </a>
     </div>
