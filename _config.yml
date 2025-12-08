@@ -49,10 +49,10 @@ author:
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=e0hRtGUAAAAJ"
     - label: "Itch.io"
-      icon: "fa fa-file-text-o"
+      icon: "fa-solid fa-gamepad"
       url: "https://junjunlowpoly.itch.io/"
     - label: "Resume available upon request"
-    - icon: 
+    - icon: "fa fa-file-text-o"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
