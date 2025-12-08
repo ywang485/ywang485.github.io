@@ -59,7 +59,7 @@ permalink: /games/
   color: #ccc;
 }
 
-.game-link {
+h1 {
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
 }
@@ -79,7 +79,6 @@ permalink: /games/
 
 
 # Games
-{: .page-title}
 
 I make games for fun. Most of my games are short and made for game jams in 48 hours.
 
