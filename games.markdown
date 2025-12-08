@@ -27,6 +27,7 @@ permalink: /games/
 
 .game-title {
   text-align: center;
+  display: block;
   font-size: 1rem;
   font-weight: bold;
   margin-bottom: 1rem;
