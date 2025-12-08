@@ -1,6 +1,5 @@
 ---
-layout: single
-author_profile: true
+layout: wide
 title: Games
 permalink: /games/
 ---
