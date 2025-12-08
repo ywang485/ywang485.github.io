@@ -26,6 +26,7 @@ permalink: /games/
 }
 
 .game-title {
+  text-align: center;
   font-size: 1rem;
   font-weight: bold;
   margin-bottom: 1rem;
@@ -69,6 +70,8 @@ permalink: /games/
   }
 }
 </style>
+
+
 
 # Games
 
