@@ -6,11 +6,11 @@ layout: single
 author_profile: true
 ---
 
-I'm an AI and HCI researcher. I do research on AI and creativity. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
+I'm an AI and HCI researcher. I work on computational reasoning, planning and creativity. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
 
-A lot of my recent work is about stories, especially interactive stories implemented with LLMs (games like AI dungeon, or games with LLM-driven NPCs, etc.). I designed [systems for authors to control AI-generated stories](https://arxiv.org/abs/2506.10161), and for interactive stories, to [guide the audience to narratively meaningful directions when they get lost in pure AI-generated content](https://arxiv.org/abs/2502.18641). I also did other work on game design tools and game character modeling, such as turning stories into [game maps](https://arxiv.org/abs/2309.15242) or [character actions](https://arxiv.org/abs/2405.13042).
+A lot of my recent work is about computational narratives, especially dynamic narrative generation and mediation with LLMs. I designed [systems for authors to control AI-generated stories](https://arxiv.org/abs/2506.10161), and for interactive stories, to [guide the audience to narratively meaningful directions when they get lost in pure AI-generated content](https://arxiv.org/abs/2502.18641). I also did other work on game design tools and game character modeling, such as turning stories into [game maps](https://arxiv.org/abs/2309.15242) or [character actions](https://arxiv.org/abs/2405.13042).
 
-In terms of technical methods, my research generally involves **Large Language Models**, **Reinforcement Learning** and **neural symbolic methods** for computational reasoning and planning. 
+In terms of technical methods, my research generally involves **Large Language Models**, **Reinforcement Learning** and **neural symbolic methods**. 
 
 I'm currently a research scientist in [Midjourney storytelling lab](https://mj-storytelling.github.io/). In the past I have worked in Autodesk Research on modeling, executing and simulating design intents for architectural design applications. My work includes [LLM agents for building occupant simulation](https://arxiv.org/abs/2506.12331), [capturing subjectivity in building design intents](https://dl.acm.org/doi/abs/10.1145/3613905.3650815), [turning spatial constraints into building designs](https://arxiv.org/abs/2309.02583), and [critic-driven design process with AI partnership](https://scholar.google.com/scholar?oi=bibs&cluster=15813830137122992288&btnI=1&hl=en).
 
