@@ -6,9 +6,9 @@ layout: single
 author_profile: true
 ---
 
-I'm an AI and HCI researcher. I work on computational reasoning, planning and creativity. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
+I'm an AI and HCI researcher. I work on computational reasoning, planning and creativity. My work generally focuses on AI agent behavior modeling and agent design support. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
 
-A lot of my recent work is about computational narratives, especially dynamic narrative generation and mediation with LLMs. I designed [systems for authors to control AI-generated stories](https://arxiv.org/abs/2506.10161), and for interactive stories, to [guide the audience to narratively meaningful directions when they get lost in pure AI-generated content](https://arxiv.org/abs/2502.18641). I also did other work on game design tools and game character modeling, such as turning stories into [game maps](https://arxiv.org/abs/2309.15242) or [character actions](https://arxiv.org/abs/2405.13042).
+A lot of my recent work is about computational narratives, especially dynamic narrative generation and mediation with LLM agents. I designed [systems for authors to control AI-generated stories](https://arxiv.org/abs/2506.10161), and for interactive stories, to [guide the audience to narratively meaningful directions when they get lost in pure AI-generated content](https://arxiv.org/abs/2502.18641). I also did other work on game design tools and game character modeling, such as turning stories into [game maps](https://arxiv.org/abs/2309.15242) or [character actions](https://arxiv.org/abs/2405.13042).
 
 In terms of technical methods, my research generally involves **Large Language Models**, **Reinforcement Learning** and **neural symbolic methods**. 
 
@@ -17,6 +17,13 @@ I'm currently a research scientist in [Midjourney storytelling lab](https://mj-s
 I did my PhD in Computer Science at Arizona State University, where the majority of my work was on desigining computable logic formalisms for automatic reasoning, especially to [incorporate probabilistic thinking in commonsense reasoning](https://dl.acm.org/doi/10.5555/3032027.3032045) so that we can [build planning agents who can take action in a world with uncertainty ](https://arxiv.org/abs/1805.00634).
 
 ### Recent Work
+![elsewise](assets/images/elsewise.png)
+Elsewise is an authoring tool for designing LLM-based interactive storytelling agents with narrative possibility space visualization and audience interaction simulation to help bridge the gap between designer's vision and audience' actual experience. We developed a novel **Bundled storyline** structure for perception and sensemaking of user-agent interaction dataset. The system supports quick feedback loop that allows designers to visualize and validate alignment between evisioned and actual experience before deployment.
+
+*Yi Wang, John Joon Young Chung, Melissa Roemmele, Yuqian Sun, Tiffany Wang, Shm Garanganao Almeda, Brett A. Halperin, Yuwen Lu, Max Kreminski, Elsewise: Authoring AI-Based Interactive Narrative with Possibility Space Visualization, arXiv preprint*
+
+<br />
+<br />
 
 ![storryverse](assets/images/storyverse.png)
 [StoryVerse](https://arxiv.org/abs/2405.13042) is a pipeline for injecting authored stories into character simulations through character actions. Under the hood is an LLM-based narrative planning process that iteratively generates and reviews character action sequences using LLM and a simulated game environment. The generated character actions satisfy constraints from both storytelling intents and executability in a game environment. The workflow mediates between the creative input from the story writer and the emergent behaviors exhibited by simulated characters or player controlled characters.
@@ -26,7 +33,7 @@ I did my PhD in Computer Science at Arizona State University, where the majority
 <br />
 <br />
 
-![wahtelse](assets/images/whatelse.png)
+![whatelse](assets/images/whatelse.png)
 [WhatELSE](https://arxiv.org/abs/2502.18641) is an authoring tool for LLM-based interactive narratives aiming at balancing authorial control and emergence. WhatELSE distinguishes canonical narrative experience envisioned by authors from actual audience experienced narratives. The interface provides three views (narrative pivot, outline, and variants) to help authors understand the possibility space of audience’s experienced narrative, and corresponding tools leveraging linguistic abstraction to shape the possibility space. 
 
 *Publication: Zhuoran Lu, Qian Zhou, Yi Wang, WhatELSE: Shaping Narrative Spaces at Configurable Level of Abstraction for AI-bridged Interactive Storytelling, in Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 2025*
