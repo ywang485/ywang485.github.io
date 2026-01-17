@@ -83,6 +83,15 @@ I make games for fun. Most of my games are short and made for game jams in 48 ho
 They tend to be experimental games more about conveying some message through interaction mechanism, not necessarily fun to play.
 
 <div class="games-grid">
+
+  <div class="game-card">
+    <a class="game-title">Scientific Research is Gambling with You Life</a>
+    <div class="game-gif"><img src="https://ywang485.github.io/assets/images/srigwyl.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+    <div class="game-description">
+      A monopoly style game but instead of investing in real-estate with money you invest (your or someone else's) life in establishing theories. <a href="https://research-monopoly.vercel.app/"> [Play] </a>
+    </div>
+  </div>
+  
   <div class="game-card">
     <a class="game-title">Hang in There Until Meetings Are Over</a>
     <div class="game-gif"><img src="https://ywang485.github.io/assets/images/HITUMAO.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
@@ -90,14 +99,6 @@ They tend to be experimental games more about conveying some message through int
       A decision-making game about social anxiety and zoom fatigue. The experience of finding someone worth giving your heart to, but realizing you've already exhausted your capacity to care. <a href="https://junjunlowpoly.itch.io/hanging-in-there-until-meetings-are-over"> [itch]</a> <a href="https://ldjam.com/events/ludum-dare/49/no-collapse-until-meetings-are-over">[Ludum Dare]</a>
     </div>
 </div>
-
-  <div class="game-card">
-    <a class="game-title">Scientific Research is Gambling with You Life</a>
-    <div class="game-gif"><img src="https://ywang485.github.io/assets/images/srigwyl.webp" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
-    <div class="game-description">
-      A monopoly style game but instead of investing in real-estate with money you invest (your or someone else's) life in establishing theories. <a href="https://junjunlowpoly.itch.io/scientific-research-is-gambling-with-you-rlife"> [itch] </a>
-    </div>
-  </div>
 
   <div class="game-card">
     <a class="game-title">Clean Food Clean Mind</a>
