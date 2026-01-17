@@ -85,7 +85,7 @@ They tend to be experimental games more about conveying some message through int
 <div class="games-grid">
 
   <div class="game-card">
-    <a class="game-title">Scientific Research is Gambling with You Life</a>
+    <a class="game-title" href="https://research-monopoly.vercel.app/">Scientific Research is Gambling with You Life</a>
     <div class="game-gif"><img src="https://ywang485.github.io/assets/images/srigwyl.gif" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
     <div class="game-description">
       A monopoly style game but instead of investing in real-estate with money you invest (your or someone else's) life in establishing theories. <a href="https://research-monopoly.vercel.app/"> [Play] </a>
