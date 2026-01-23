@@ -18,7 +18,7 @@ I did my PhD in Computer Science at Arizona State University, where the majority
 
 ### Recent Work
 ![elsewise](assets/images/elsewise.png)
-Elsewise is an authoring tool for designing LLM-based interactive storytelling agents with narrative possibility space visualization and audience interaction simulation to help bridge the gap between designer's vision and audience' actual experience. We developed a novel **Bundled storyline** structure for perception and sensemaking of user-agent interaction dataset. The system supports quick feedback loop that allows designers to visualize and validate alignment between evisioned and actual experience before deployment.
+[Elsewise](https://arxiv.org/abs/2601.15295) is an authoring tool for designing LLM-based interactive storytelling agents with narrative possibility space visualization and audience interaction simulation to help bridge the gap between designer's vision and audience' actual experience. We developed a novel **Bundled storyline** structure for perception and sensemaking of user-agent interaction dataset. The system supports quick feedback loop that allows designers to visualize and validate alignment between evisioned and actual experience before deployment.
 
 *Yi Wang, John Joon Young Chung, Melissa Roemmele, Yuqian Sun, Tiffany Wang, Shm Garanganao Almeda, Brett A. Halperin, Yuwen Lu, Max Kreminski, Elsewise: Authoring AI-Based Interactive Narrative with Possibility Space Visualization, arXiv preprint*
 
