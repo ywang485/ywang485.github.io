@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I'm an AI and HCI researcher working on computational reasoning, planning and creativity. My research generally focuses on AI agent behavior modeling and agent design support. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
+I'm an **AI/HCI** researcher working on **AI agents (most LLM/RL-based)**. I **train** those agents and **orchestrate** them to do various **reasoning, planning and creative tasks**, mostly for **design tools**. In an era increasingly saturated with AI-generated content, I hope to explore how to cultivate more **intentional** content and make it recognizable.
 
 A lot of my recent work is about computational narratives, especially dynamic narrative generation and mediation with LLM agents. I designed [systems for authors to control AI-generated stories](https://arxiv.org/abs/2506.10161), and for interactive stories, to [guide the audience to narratively meaningful directions when they get lost in pure AI-generated content](https://arxiv.org/abs/2502.18641). I also did other work on game design tools and game character modeling, such as turning stories into [game maps](https://arxiv.org/abs/2309.15242) or [character actions](https://arxiv.org/abs/2405.13042).
 
